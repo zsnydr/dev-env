@@ -1,0 +1,20 @@
+- iterm2 for zsh
+- oh-my-zsh
+- spaceship theme for oh-my-zsh
+	- .zshrc
+	- z.sh
+- homebrew
+
+- nvm/node
+
+- source bash_profile (if not using zsh)
+
+- VSCode
+
+- grab VSCode alias files, settings file, and extensions list
+
+- global dependencies:
+	- nodemon
+	- LESS
+	- SQL?
+	- redis?
